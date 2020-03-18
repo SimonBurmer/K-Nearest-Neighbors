@@ -10,7 +10,7 @@ from sklearn import neighbors, datasets
 
 #implementing the k-nearest neighbors algorithm to predict the right iris species.
 
-#The data set consists of 50 samples from each of three species of Iris 
+#The data set consists of 50 samples from each of three species of iris 
 # (Iris setosa, Iris virginica and Iris versicolor). 
 # Four features were measured from each sample: the length and 
 # the width of the sepals and petals, in centimeters.
